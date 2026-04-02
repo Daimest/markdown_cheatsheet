@@ -15,6 +15,7 @@
 * <sub>hochgestellt</sub>
 * `Code`
 * :heart:
+* :smirk:
 
 ### Sortierte Liste
 
@@ -28,8 +29,19 @@
 - [ ] ABAB
 - [x] Python
 
+## Tabellen
 
+| Name | Alter | Geschlecht |
+|------| :----:| :---------:|
+| peter|  42   |  m         |
+| hans |  33   |  m         |
+| lisa |  18   |  w         |
 
+## Links und Grafiken
+
+- [Tabellengenerator](https://www.tablesgenerator.com/)
+- [Emojicodes](https://gist.github.com/rxaviers/7360908)
+- [Formatierung](https://prettier.io/)
 
 
 
