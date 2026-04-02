@@ -40,8 +40,18 @@
 ## Links und Grafiken
 
 - [Tabellengenerator](https://www.tablesgenerator.com/)
-- [Emojicodes](https://gist.github.com/rxaviers/7360908)
+- [Emojicodes](https://gist.github.com/rxaviers/7360908) 
 - [Formatierung](https://prettier.io/)
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/330px-Markdown-mark.svg.png)
 
+## Codeblöcke
+
+```java
+public class MainClass {
+   public static void main (String[] args) {
+     System.out.println("Hello World");
+    }
+}
+```
 
